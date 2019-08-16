@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "sampleweb",
+"productName": "Coloring_book_v1.1",
 "productVersion": "0.1",
 "dataUrl": "build.data.unityweb",
 "wasmCodeUrl": "build.wasm.code.unityweb",
